@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "xlocale": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "xiosbase": "cpp",
+        "utility": "cpp",
+        "cassert": "cpp",
+        "set": "cpp",
+        "iosfwd": "cpp",
+        "map": "cpp",
+        "cmath": "cpp"
+    },
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\python.exe"
+}

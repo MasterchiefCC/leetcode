@@ -1,2 +1,1 @@
-# leetcode
-personal solution for leetcode
+self-trainning
