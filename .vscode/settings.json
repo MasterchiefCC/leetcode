@@ -21,7 +21,8 @@
         "set": "cpp",
         "iosfwd": "cpp",
         "map": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "stdio.h": "c"
     },
     "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\python.exe"
 }
