@@ -18,15 +18,3 @@
 #include <functional> 
 #include <sstream>
 using namespace std;
-typedef long long ll;
-typedef pair <int, int> ii;
-typedef vector <ll> vi;
-typedef long double ld;
-typedef set <int> ::iterator sit;
-typedef map <int, int> ::iterator mit;
-typedef vector <int> ::iterator vit;
-#define fi first
-#define se second
-#define pb push_back
-#define forn(i, n)for ( int i = 1; i <= n; i++ )
-#define fore(i, n )for ( int i = 0; i <n; i++ )
