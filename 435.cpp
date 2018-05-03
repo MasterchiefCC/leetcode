@@ -13,7 +13,8 @@ public:
     int eraseOverlapIntervals(vector<Interval>& intervals) {
         if(intervals.empty())return 0;
         
-        sort(intervals.begin(), intervals.end(), [](const Interval &C1, const Interval&C2){return C1.start<C2.start;});
+        sort(intervals.begin(), intervals.end(), \
+        [](const Interval &C1, const Interval&C2){return C1.start<C2.start;});
         
         int ret=0, cur_end=intervals[0].end;
         for(int i=1; i<intervals.size(); ++i){
