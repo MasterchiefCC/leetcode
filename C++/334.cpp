@@ -1,3 +1,5 @@
+#include "mod.h"
+
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
