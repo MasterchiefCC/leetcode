@@ -6,4 +6,6 @@
 |[820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/)|[820.cpp](/C++/820.cpp)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[75.cpp](/C++/75.cpp)|
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[240.cpp](/C++/240.cpp)|[240.java](/java/240.java)|[240.py](/py/240.py)|
-
+|[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[162.cpp](/C++/162.cpp)|
+|[752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)|[752.cpp](/C++/752.cpp)|
+|[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[416.cpp](/C++/416.cpp)|
