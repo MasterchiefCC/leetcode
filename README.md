@@ -9,3 +9,6 @@
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[162.cpp](/C++/162.cpp)|
 |[752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)|[752.cpp](/C++/752.cpp)|
 |[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[416.cpp](/C++/416.cpp)|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[300.cpp](/C++/300.cpp)|
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[49.cpp](/C++/49.cpp)|Mark ASAP|Mark ASAP|
+|[491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/)|[491.cpp](/C++491.cpp)|Mark ASAP|
