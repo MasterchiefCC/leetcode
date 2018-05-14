@@ -14,3 +14,5 @@
 |[491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/)|[491.cpp](/C++491.cpp)|Mark ASAP|
 |[640. Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/)|[640.cpp](/C++/640.cpp)|
 |[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)|[785.cpp](/C++/785.cpp)|[785.java](/java/785.java)|[785.py](/py/785.py)|
+|[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[474.cpp](/C++/474.cpp)|
+|[670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[670.cpp](/C++/670.cpp)|
