@@ -16,3 +16,6 @@
 |[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)|[785.cpp](/C++/785.cpp)|[785.java](/java/785.java)|[785.py](/py/785.py)|
 |[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[474.cpp](/C++/474.cpp)|
 |[670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[670.cpp](/C++/670.cpp)|
+|[313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|[313.cpp](/C++/313.cpp)|
+|[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)|[662.cpp](/C++/662.cpp)|
+
