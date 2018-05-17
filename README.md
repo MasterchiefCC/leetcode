@@ -18,4 +18,5 @@
 |[670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[670.cpp](/C++/670.cpp)|
 |[313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|[313.cpp](/C++/313.cpp)|
 |[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)|[662.cpp](/C++/662.cpp)|
-
+|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[129.cpp](/C++/129.cpp)|
+|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[36.cpp](/C++/36.cpp)|
