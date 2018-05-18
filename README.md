@@ -20,3 +20,5 @@
 |[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)|[662.cpp](/C++/662.cpp)|
 |[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[129.cpp](/C++/129.cpp)|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[36.cpp](/C++/36.cpp)|
+|[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[279.cpp](/C++/279.cpp)|
+|[450. Delete Node in a BST*](https://leetcode.com/problems/delete-node-in-a-bst/description/)|[450.cpp](/C++/450.cpp)|
