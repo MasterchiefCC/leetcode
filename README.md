@@ -24,3 +24,8 @@
 |[450. Delete Node in a BST*](https://leetcode.com/problems/delete-node-in-a-bst/description/)|[450.cpp](/C++/450.cpp)|
 |[698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)|[698.cpp](/C++/698.cpp)|
 |[731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/)|[731.cpp](/C++/731.cpp)|
+|[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)|[802.cpp](/C++/802.cpp)|
+|[838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)|[838.cpp](/C++/838.cpp)|||[link](https://blog.csdn.net/zjucor/article/details/80380899)|
+|[331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)|[331.cpp](/C++/331.cpp)|
+|[388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)|[388.cpp](/C++/388.cpp)|
+|[289. Game of Life](https://leetcode.com/problems/game-of-life/description/)|[289.cpp](/C++/289.cpp)|
