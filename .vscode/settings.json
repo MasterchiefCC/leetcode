@@ -22,7 +22,9 @@
         "iosfwd": "cpp",
         "map": "cpp",
         "cmath": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "iomanip": "cpp",
+        "functional": "cpp"
     },
     "python.pythonPath": "C:\\Users\\MasterchiefCC\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
     "python.linting.pylintEnabled": false
