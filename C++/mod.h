@@ -15,6 +15,7 @@
 #include <list> 
 #include <bitset> 
 #include <iomanip> 
+#include <numeric> 
 #include <functional> 
 #include <sstream>
 #include <unordered_set>
