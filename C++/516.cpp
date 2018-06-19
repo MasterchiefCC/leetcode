@@ -1,3 +1,4 @@
+#include "mod.h"
 class Solution {
 public:
     int longestPalindromeSubseq(string s) {
