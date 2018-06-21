@@ -1,3 +1,3 @@
 clean:
-	rm -f *exe
+	rm -f a.out mod.h.gch
 
