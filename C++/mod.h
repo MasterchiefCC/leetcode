@@ -1,3 +1,5 @@
+#ifndef MOD_H
+#define MOD_H
 #include <iostream> 
 #include <stdio.h> 
 #include <algorithm> 
@@ -40,3 +42,4 @@ struct TreeLinkNode {
 	TreeLinkNode *left, *right, *next;
 	TreeLinkNode(int x) : val(x), left(NULL), right(NULL), next(NULL) {}
 };
+#endif //MOD_H

@@ -24,7 +24,9 @@
         "cmath": "cpp",
         "stdio.h": "c",
         "iomanip": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "string": "cpp",
+        "system_error": "cpp"
     },
     "python.pythonPath": "C:\\Users\\MasterchiefCC\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
     "python.linting.pylintEnabled": false
