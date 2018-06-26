@@ -42,4 +42,13 @@ struct TreeLinkNode {
 	TreeLinkNode *left, *right, *next;
 	TreeLinkNode(int x) : val(x), left(NULL), right(NULL), next(NULL) {}
 };
+
+
+struct Interval {
+     int start;
+      int end;
+     Interval() : start(0), end(0) {}
+     Interval(int s, int e) : start(s), end(e) {}
+};
+
 #endif //MOD_H
