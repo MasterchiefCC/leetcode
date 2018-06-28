@@ -1,6 +1,8 @@
 #ifndef MOD_H
 #define MOD_H
+
 #include <iostream> 
+#include <memory>
 #include <stdio.h> 
 #include <algorithm> 
 #include <vector> 
